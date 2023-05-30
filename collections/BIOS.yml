@@ -1,7 +1,7 @@
-ident: BIOS
+ident: bios
 name: BIOS
 name_cn: BIOS
-slug: /BIOS
+slug: /bios
 items:
   - https://github.com/coreboot/coreboot
   - https://github.com/libreboot/libreboot
